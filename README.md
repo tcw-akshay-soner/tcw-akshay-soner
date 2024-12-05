@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Banking Project**
 
-- 💬 Ask me about **Python, Langchain, OpenAI, Chatbot, QueryMate, Exilir**
+- 💬 Ask me about **Python, Langchain, OpenAI, Chatbot, QueryMate, Elixir**
 
 - 📫 How to reach me **akshay.soner@dev.thecodewise.com**
 
