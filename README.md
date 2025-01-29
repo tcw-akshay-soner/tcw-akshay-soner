@@ -19,14 +19,14 @@
 
 <h3 align="left">Technical Skills:</h3>
 <ul>
-  <li><b>Backend Development</b>: Expert in **Python**, **Flask**, **Django**, **Elixir**, **FastAPI**, and building scalable web services and APIs.</li>
-  <li><b>Cloud Computing</b>: Hands-on experience with **AWS Lambda**, **S3**, **API Gateway**, and **EC2** for building serverless and cloud-native applications.</li>
-  <li><b>Database Technologies</b>: Proficient in **MySQL**, **MongoDB**, and experienced with **SQL** queries, schema design, and **data migrations**.</li>
-  <li><b>Data Engineering</b>: Familiar with **data validation**, **ETL processes**, and tools like **Pandas**, **NumPy**, and **OpenCV** for processing and analyzing data.</li>
-  <li><b>Version Control & CI/CD</b>: Strong skills in **Git**, **GitHub**, and **GitLab** for version control. Experience in building and deploying applications using **Docker**, **CI/CD pipelines**, and **Jenkins**.</li>
-  <li><b>Agile & Project Management</b>: Practical knowledge of **JIRA** for task tracking and agile workflows to streamline development and delivery processes.</li>
-  <li><b>Testing & Automation</b>: Adept at writing unit and integration tests with frameworks like **PyTest**, **Selenium**, and performing automated testing.</li>
-  <li><b>Messaging & Queue Systems</b>: Experience with **RabbitMQ** and **Kafka** for building asynchronous systems and messaging queues.</li>
+  <li><b>Backend Development</b>: Expert in Python, <b>Flask</b>, <b>Django</b>, <b>Elixir</b>, <b>FastAPI</b>, and building scalable web services and APIs.</li>
+  <li><b>Cloud Computing</b>: Hands-on experience with <b>AWS Lambda</b>, <b>S3</b>, <b>API Gateway</b>, and <b>EC2</b> for building serverless and cloud-native applications.</li>
+  <li><b>Database Technologies</b>: Proficient in <b>MySQL</b>, <b>MongoDB</b>, and experienced with <b>SQL</b> queries, schema design, and <b>data migrations</b>.</li>
+  <li><b>Data Engineering</b>: Familiar with <b>data validation</b>, <b>ETL processes</b>, and tools like <b>Pandas</b>, <b>NumPy</b>, and <b>OpenCV</b> for processing and analyzing data.</li>
+  <li><b>Version Control & CI/CD</b>: Strong skills in <b>Git</b>, <b>GitHub</b>, and <b>GitLab</b> for version control. Experience in building and deploying applications using <b>Docker</b>, <b>CI/CD pipelines</b>, and <b>Jenkins</b>.</li>
+  <li><b>Agile & Project Management</b>: Practical knowledge of <b>JIRA</b> for task tracking and agile workflows to streamline development and delivery processes.</li>
+  <li><b>Testing & Automation</b>: Adept at writing unit and integration tests with frameworks like <b>PyTest</b>, <b>Selenium</b>, and performing automated testing.</li>
+  <li><b>Messaging & Queue Systems</b>: Experience with <b>RabbitMQ</b> and <b>Kafka</b> for building asynchronous systems and messaging queues.</li>
 </ul>
 
 <h3 align="left">Languages & Tools:</h3>
