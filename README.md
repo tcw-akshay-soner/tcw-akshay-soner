@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akshay Soner</h1>
-<h3 align="center">Passionate Backend Developer | Banking Project Enthusiast</h3>
+<h3 align="center">Passionate Backend Developer | Banking Project Enthusiast | AWS Lambda Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tcw-akshay-soner&label=Profile%20views&color=0e75b6&style=flat" alt="tcw-akshay-soner" /> </p>
 
-- 🔭 Currently working on **Banking Project** involving **XML file generation, validation, and saving data to MySQL databases**.
-- 🌱 Actively learning **AWS Lambda, JIRA**, and enhancing my skills for seamless cloud integration and efficient project management.
-- 👯 Open to collaboration on **Banking Project** or any backend-focused challenges.
-- 💬 Reach out if you’d like to discuss **Python**, **Langchain**, **OpenAI**, **Chatbot development**, **QueryMate**, **Elixir**, or **AWS Lambda**.
+- 🔭 **Current Focus**: Working on **Banking Project** which involves complex **XML file generation**, **data validation**, and **saving data to MySQL databases**. Additionally, responsible for **email notifications** via **MS Graph API**.
+- 🌱 **Learning**: Continuously growing by learning **AWS Lambda** for serverless applications and **JIRA** for agile project management and tracking.
+- 👯 **Collaborations**: Looking to collaborate on backend development projects, especially those involving banking, cloud solutions, and data engineering.
+- 💬 **Specializations**: Passionate about **Python**, **Langchain**, **OpenAI**, **Chatbots**, **QueryMate**, **Elixir**, **AWS Lambda**, and **DevOps** practices.
 
-📫 How to reach me: **akshay.soner@dev.thecodewise.com**
+📫 **How to reach me**: **akshay.soner@dev.thecodewise.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +16,18 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akshay Soner on LinkedIn" height="30" width="40" />
 </a>
 </p>
+
+<h3 align="left">Technical Skills:</h3>
+<ul>
+  <li><b>Backend Development</b>: Expert in **Python**, **Flask**, **Django**, **Elixir**, **FastAPI**, and building scalable web services and APIs.</li>
+  <li><b>Cloud Computing</b>: Hands-on experience with **AWS Lambda**, **S3**, **API Gateway**, and **EC2** for building serverless and cloud-native applications.</li>
+  <li><b>Database Technologies</b>: Proficient in **MySQL**, **MongoDB**, and experienced with **SQL** queries, schema design, and **data migrations**.</li>
+  <li><b>Data Engineering</b>: Familiar with **data validation**, **ETL processes**, and tools like **Pandas**, **NumPy**, and **OpenCV** for processing and analyzing data.</li>
+  <li><b>Version Control & CI/CD</b>: Strong skills in **Git**, **GitHub**, and **GitLab** for version control. Experience in building and deploying applications using **Docker**, **CI/CD pipelines**, and **Jenkins**.</li>
+  <li><b>Agile & Project Management</b>: Practical knowledge of **JIRA** for task tracking and agile workflows to streamline development and delivery processes.</li>
+  <li><b>Testing & Automation</b>: Adept at writing unit and integration tests with frameworks like **PyTest**, **Selenium**, and performing automated testing.</li>
+  <li><b>Messaging & Queue Systems</b>: Experience with **RabbitMQ** and **Kafka** for building asynchronous systems and messaging queues.</li>
+</ul>
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
