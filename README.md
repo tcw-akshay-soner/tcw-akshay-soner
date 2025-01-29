@@ -19,7 +19,7 @@
 
 <h3 align="left">Technical Skills:</h3>
 <ul>
-  <li><b>Backend Development</b>: Expert in <b>Python<b>, <b>Flask</b>, <b>Django</b>, <b>Elixir</b>, <b>FastAPI</b>, and building scalable web services and APIs.</li>
+  <li><b>Backend Development</b>: Expert in <b>Python</b>b>, <b>Flask</b>, <b>Django</b>, <b>Elixir</b>, <b>FastAPI</b>, and building scalable web services and APIs.</li>
   <li><b>Cloud Computing</b>: Hands-on experience with <b>AWS Lambda</b>, <b>S3</b>, <b>API Gateway</b>, and <b>EC2</b> for building serverless and cloud-native applications.</li>
   <li><b>Database Technologies</b>: Proficient in <b>MySQL</b>, <b>MongoDB</b>, and experienced with <b>SQL</b> queries, schema design, and <b>data migrations</b>.</li>
   <li><b>Data Engineering</b>: Familiar with <b>data validation</b>, <b>ETL processes</b>, and tools like <b>Pandas</b>, <b>NumPy</b>, and <b>OpenCV</b> for processing and analyzing data.</li>
