@@ -23,11 +23,11 @@
   <li><b>Cloud Computing</b>: Hands-on experience with <b>AWS Lambda</b>, <b>S3</b>, <b>API Gateway</b>, and <b>EC2</b> for building serverless and cloud-native applications.</li>
   <li><b>Database Technologies</b>: Proficient in <b>MySQL</b>, <b>MongoDB</b>, and experienced with <b>SQL</b> queries, schema design, and <b>data migrations</b>.</li>
   <li><b>Data Engineering</b>: Familiar with <b>data validation</b>, <b>ETL processes</b>, and tools like <b>Pandas</b>, <b>NumPy</b>, and <b>OpenCV</b> for processing and analyzing data.</li>
-  <li><b>Version Control & CI/CD</b>: Strong skills in <b>Git</b>, <b>GitHub</b>, and <b>GitLab</b> for version control. Experience in building and deploying applications using <b>Docker</b>, <b>CI/CD pipelines</b>, and <b>Jenkins</b>.</li>
+  <li><b>Version Control & CI/CD</b>: Strong skills in <b>Git</b>, <b>GitHub</b>, and <b>GitLab</b> for version control. Experience in building and deploying applications using <b>Docker</b>, <b>CI/CD pipelines</b>.</li>
   <li><b>Agile & Project Management</b>: Practical knowledge of <b>JIRA</b> for task tracking and agile workflows to streamline development and delivery processes.</li>
   <li><b>Testing & Automation</b>: Adept at writing unit and integration tests with frameworks like <b>PyTest</b>, <b>Selenium</b>, and performing automated testing.</li>
-  <li><b>Messaging & Queue Systems</b>: Experience with <b>RabbitMQ</b> and <b>Kafka</b> for building asynchronous systems and messaging queues.</li>
-</ul>
+<!--   <li><b>Messaging & Queue Systems</b>: Experience with <b>RabbitMQ</b> and <b>Kafka</b> for building asynchronous systems and messaging queues.</li>
+</ul> -->
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
